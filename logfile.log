@@ -1,0 +1,34 @@
+2019-08-23 13:04:30,638 INFO  [Log] Application opened 
+2019-08-23 13:04:33,648 INFO  [Log] wait statement executed 
+2019-08-23 13:04:33,734 INFO  [Log] Title matched 
+2019-08-23 13:04:41,814 INFO  [Log] Login completed 
+2019-08-23 13:04:45,826 INFO  [Log] Titles matched 
+2019-08-23 13:04:46,016 INFO  [Log] Text matched 
+2019-08-23 13:04:46,417 INFO  [Log] Logout completed 
+2019-08-23 13:04:47,136 INFO  [Log] Application closed 
+2019-08-23 13:07:20,542 INFO  [Log] Application opened 
+2019-08-23 13:07:23,543 INFO  [Log] wait statement executed 
+2019-08-23 13:07:23,554 INFO  [Log] Title matched 
+2019-08-23 13:07:30,538 INFO  [Log] Login completed 
+2019-08-23 13:07:34,555 INFO  [Log] Titles matched 
+2019-08-23 13:07:34,710 INFO  [Log] Text matched 
+2019-08-23 13:07:35,011 INFO  [Log] Mouse over performed 
+2019-08-23 13:07:38,369 INFO  [Log] Adding employee 
+2019-08-23 13:07:50,550 INFO  [Log] New employee added 
+2019-08-23 13:07:55,100 INFO  [Log] Logout completed 
+2019-08-23 13:07:55,840 INFO  [Log] Application closed 
+2019-08-23 13:16:13,583 INFO  [Log] Application opened 
+2019-08-23 13:16:16,585 INFO  [Log] wait statement executed 
+2019-08-23 13:16:16,596 INFO  [Log] Title matched 
+2019-08-23 13:16:18,689 INFO  [Log] Login completed 
+2019-08-23 13:16:22,707 INFO  [Log] Titles matched 
+2019-08-23 13:16:22,864 INFO  [Log] Text matched 
+2019-08-23 13:16:23,112 INFO  [Log] Mouse over performed 
+2019-08-23 13:16:24,635 INFO  [Log] Adding employee 
+2019-08-23 13:16:31,486 INFO  [Log] New employee added 
+2019-08-23 13:16:38,947 INFO  [Log] clicked on emp list 
+2019-08-23 13:16:39,361 INFO  [Log] Selected ID 
+2019-08-23 13:16:40,542 INFO  [Log] Employee searched 
+2019-08-23 13:16:41,759 INFO  [Log] Employee deleted 
+2019-08-23 13:16:44,228 INFO  [Log] Logout completed 
+2019-08-23 13:16:44,901 INFO  [Log] Application closed 
